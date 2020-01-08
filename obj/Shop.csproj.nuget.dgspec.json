@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Dev\\Estudando\\AspNetCore\\Shop\\Shop\\Shop.csproj": {}
+    "C:\\Dev\\Estudando\\AspNetCore\\Shop\\shop\\Shop.csproj": {}
   },
   "projects": {
-    "C:\\Dev\\Estudando\\AspNetCore\\Shop\\Shop\\Shop.csproj": {
+    "C:\\Dev\\Estudando\\AspNetCore\\Shop\\shop\\Shop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dev\\Estudando\\AspNetCore\\Shop\\Shop\\Shop.csproj",
+        "projectUniqueName": "C:\\Dev\\Estudando\\AspNetCore\\Shop\\shop\\Shop.csproj",
         "projectName": "Shop",
-        "projectPath": "C:\\Dev\\Estudando\\AspNetCore\\Shop\\Shop\\Shop.csproj",
+        "projectPath": "C:\\Dev\\Estudando\\AspNetCore\\Shop\\shop\\Shop.csproj",
         "packagesPath": "C:\\Users\\lucas.5a\\.nuget\\packages\\",
-        "outputPath": "C:\\Dev\\Estudando\\AspNetCore\\Shop\\Shop\\obj\\",
+        "outputPath": "C:\\Dev\\Estudando\\AspNetCore\\Shop\\shop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lucas.5a\\AppData\\Roaming\\NuGet\\NuGet.Config",
